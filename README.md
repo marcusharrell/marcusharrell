@@ -5,6 +5,7 @@
 </div>
 <div align ="justify">
 Here's some fun facts about me:
+ <br>
     <ul>
 <li> 🔭 I’m currently working on a React Web App for Productivity
 <li> 🌱 I'm self-taught and always looking to collaberate on projects.
