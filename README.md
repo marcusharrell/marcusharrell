@@ -3,12 +3,12 @@
 <div align="justify">
     My name is Marcus and I'm a Full Stack Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
-
+<div align ="justify">
 Here's some fun facts about me:
 🔭 I’m currently working on a React Web App for Productivity
 🌱 I'm self-taught and always looking to collaberate on projects.
 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-
+</div>
 # 🔧 Technologies & Tools
 
 <table>
