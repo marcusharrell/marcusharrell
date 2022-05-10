@@ -5,9 +5,11 @@
 </div>
 <div align ="justify">
 Here's some fun facts about me:
-🔭 I’m currently working on a React Web App for Productivity
-🌱 I'm self-taught and always looking to collaberate on projects.
-🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
+    <ul>
+<li> 🔭 I’m currently working on a React Web App for Productivity
+<li> 🌱 I'm self-taught and always looking to collaberate on projects.
+<li> 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
+    </ul>
 </div>
 # 🔧 Technologies & Tools
 
