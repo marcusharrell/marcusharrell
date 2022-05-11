@@ -9,7 +9,7 @@ Here's some fun facts about me:
     <ul>
 <li> 🔭 I’m currently working on a React Web App for Productivity
 <li> 🌱 I'm self-taught and always looking to collaberate on projects.
-<li> 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
+<li> 🤔 I’m also working as a Freelancer at Upwork and Fiverr.
     </ul>
 </div>
 🔧 My Tech Stack
