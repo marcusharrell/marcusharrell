@@ -167,4 +167,4 @@ Here's some fun facts about me:
 
 # 📈 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcush513)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusharrell)](https://github.com/anuraghazra/github-readme-stats)
