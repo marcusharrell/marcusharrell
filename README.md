@@ -24,6 +24,3 @@ I love to work with JavaScript technologies. Right now my mind is focused on lea
 
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): sintax#7696 </a>
-
-<img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=marcusharrell&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
-
