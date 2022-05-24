@@ -22,7 +22,9 @@ I love to work with JavaScript technologies. Right now my mind is focused on lea
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
+![Metrics](https://metrics.lecoq.io/marcusharrell?template=classic&followup=1&isocalendar=1&code=1&introduction=1&lines=1&starlists=1&base.indepth=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&introduction.title=true&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&config.timezone=America%2FNew_York)
+
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): sintax#7696 </a>
 
-![Metrics](https://metrics.lecoq.io/marcusharrell?template=classic&followup=1&isocalendar=1&code=1&introduction=1&lines=1&starlists=1&base.indepth=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&introduction.title=true&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&config.timezone=America%2FNew_York)
+
