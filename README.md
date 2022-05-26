@@ -18,9 +18,9 @@ I love to work with JavaScript technologies. Right now my mind is focused on lea
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-![Metrics](https://metrics.lecoq.io/marcusharrell?template=classic&followup=1&isocalendar=1&code=1&introduction=1&lines=1&starlists=1&base.indepth=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&introduction.title=true&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&config.timezone=America%2FNew_York)
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): sintax#7696 </a>
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 
